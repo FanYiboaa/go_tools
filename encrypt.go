@@ -1,4 +1,4 @@
-package tools
+package go_tools
 
 import (
 	"crypto/md5"

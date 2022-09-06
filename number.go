@@ -1,4 +1,4 @@
-package tools
+package go_tools
 
 // 比较数字大小
 func MaxInt(a, b int) int {
