@@ -1,4 +1,4 @@
-module tools
+module github.com/FanYiboaa/go_tools
 
 go 1.19
 
